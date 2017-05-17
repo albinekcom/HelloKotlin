@@ -1,2 +1,3 @@
-# HelloKotlin
-First project using Kotlin language
+# Hello, Kotlin! 🌍
+
+First project using Kotlin language.
