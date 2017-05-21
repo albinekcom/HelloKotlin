@@ -2,6 +2,6 @@
     <typedef resource="org/jetbrains/kotlin/ant/antlib.xml" classpath="${kotlin.lib}/kotlin-ant.jar"/>
 
     <target name="build">
-        <kotlinc src="app.kt" output="app.jar"/>
+        <kotlinc src="app.kt Greeter.kt" output="app.jar"/>
     </target>
 </project>
